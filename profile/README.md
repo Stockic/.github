@@ -17,7 +17,7 @@ So, with thorough analysis, we decided on the features that make **Stockic the l
 4. _In addition to being rich in numerical data, our metrics are paired with relevant news, which can impact those metrics so that users can make their own decisions right in place._
 5. _Integrations like Notion and Obsidian allows users to push relevant content into their workspaces and use it to analyze later (or do whatever they want to operate on the data)._
 6. _Supporting Google Calendars to mark important dates like IPO releases, launches, etc._
-7. _Stockic AI for answering all the questions users are wondering based on today's news. _
+7. _Stockic AI for answering all the questions users are wondering based on today's news._
 
 Our team:
 1. **Aditya Patil** - Backend Engineer working 16+ hours a day to make this happen (LinkedIn: https://www.linkedin.com/in/aditya-patil-260a631b2/)
